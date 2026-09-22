@@ -8,7 +8,9 @@ Agrega al final de README.md:
 - css/estilos.css
 ## Versiones
 ### Primer commit
-Se creó la estructura inicial del proyecto.
+=======
+Se creo la estructura inicial del proyecto.
 ### Segundo commit
-Se agregaron las páginas Nosotros y Contacto,
-la hoja de estilos CSS y se actualizó el README.
+Se agregaron las paginas Nosotros y Contacto,
+la hoja de estilos CSS y se actualizo el README.
+>>>>>>> 3f09a80 (Actualizar README)
